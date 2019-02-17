@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Breeze-blips-yellow
+Description=Breeze-blips-yellow Theme
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=breeze-blips-yellow
+Theme-API=2.0
