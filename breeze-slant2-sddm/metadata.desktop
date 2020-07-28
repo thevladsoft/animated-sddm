@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Breeze-Slanted-lines2
+Description=Breeze-Slanted-lines2 Theme
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=breeze-Slanted2
+Theme-API=2.0
