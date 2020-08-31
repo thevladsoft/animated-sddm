@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Breeze-Proton-storm
+Description=Breeze-Proton-storm Theme
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=breeze-Proton-storm
+Theme-API=2.0
