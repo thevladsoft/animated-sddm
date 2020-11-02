@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Breeze-River-of-colors
+Description=Breeze River of colors Theme
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=breeze-River-of-colors
+Theme-API=2.0
