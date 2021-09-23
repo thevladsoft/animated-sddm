@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Breeze-Pinkneko-chan
+Description=Breeze Pinkneko Theme
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=breeze-Pinkneko
+Theme-API=2.0
