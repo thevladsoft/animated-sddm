@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Breeze-Gray-chan2
+Description=Breeze Gray-chan2 Theme
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=breeze-Gray-chan2
+Theme-API=2.0
